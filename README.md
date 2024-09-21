@@ -2,6 +2,8 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR ARISING +KATAKURI_MD;MULTI+DEVICE+WHATSAPP+BOT;ARISED+BY+KATAKURI." alt="Typing SVG" /></a>
   </p>
+
+  <img src="https://telegra.ph/file/b065f0f673cae5452c358.jpg
     <img alt="KATAKURI_MD" width="700" height="300" src="">
 <p align="center">
 <p align="center">
