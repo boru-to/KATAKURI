@@ -21,7 +21,7 @@
 
 ### 2. GET SESSION ID HERE
  
-<a href="https://david-session-olzw.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://david-session-olzw.onrender.com"><img src="https://img.shields.io/badge/GET_SESSION ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ### DEPLOY ON RENDER
 
