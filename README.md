@@ -2,7 +2,8 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR ARISING +KATAKURI_MD;MULTI+DEVICE+WHATSAPP+BOT;ARISED+BY+KATAKURI." alt="Typing SVG" /></a>
   </p>
-    <img alt="https://telegra.ph/file/b065f0f673cae5452c358.jpg" width="700" height="300" src="">
+  <img src="https://telegra.ph/file/b065f0f673cae5452c358.jpg
+    <img alt="" width="700" height="300" src="">
 <p align="center">
 <p align="center">
 <a href="https://github.com/boru-to/KATAKURI"><img title="Author" src="https://img.shields.io/badge/KATAKURI-black?style=for-the-badge&logo=github"></a>
